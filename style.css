@@ -103,6 +103,7 @@ a {
 .random-items {
     display: flex;
     flex-grow: 0;
+    align-content: center;
 }
 
 .random-text {
